@@ -1,6 +1,5 @@
 # 🛰️ Proyecto: High-Performance Computing
 
-![Cabecera del Proyecto](https://i.imgur.com/FchMMfd.png)
 
 ## 📌 Descripción
 
